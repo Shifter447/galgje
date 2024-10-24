@@ -7,3 +7,4 @@
 ## Score
 ![gallow](./images/1.png)
 
+ik raad r
