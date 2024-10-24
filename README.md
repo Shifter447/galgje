@@ -5,6 +5,6 @@
 ......
 
 ## Score
-![gallow](./images/1.png)
+![gallow](./images/2.png)
 
-ik raad r
+ik raad r /Fout
