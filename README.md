@@ -5,7 +5,7 @@
 ......
 
 ## Score
-![gallow](./images/2.png)
+![gallow](./images/3.png)
 
 ik raad r /Fout
-ik raad a
+ik raad a /Fout
